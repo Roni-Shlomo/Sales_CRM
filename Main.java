@@ -11,6 +11,7 @@ public class Main {
         Manager manager = new Manager();
         int choice;
         System.out.println("Welcome to 'Buy&Sell' virtual shop!");
+        System.out.println("Welcome!");
 
         do {
             System.out.println("Choose one of the following options:");
