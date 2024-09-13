@@ -28,6 +28,7 @@ public class Main {
             System.out.println("Enter your choice --> ");
             choice = getValidIntInput();
 
+
             switch (choice) {
                 case 0:
                     System.out.println("Exit the program");
